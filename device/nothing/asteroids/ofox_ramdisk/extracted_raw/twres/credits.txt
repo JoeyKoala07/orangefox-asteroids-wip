@@ -1,0 +1,16 @@
+
+
+OrangeFox Recovery Credits
+--------------------------
+
+* TWRP Team
+* The Posy - for cursor
+
+== For donating ==
+* GitLab.com
+* JetBrains
+* ua-hosting.company
+
+* Our maintainers
+* Our testers who test many builds per day
+* Our users and community

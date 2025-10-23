@@ -1,0 +1,8 @@
+out/
+*.img
+*.zip
+*.tar*
+*.log
+*.md5
+*.sha256
+*.keystore

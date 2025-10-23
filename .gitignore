@@ -5,4 +5,5 @@ out/
 *.log
 *.md5
 *.sha256
+super.img
 *.keystore
